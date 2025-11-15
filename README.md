@@ -80,7 +80,7 @@ pip install pyspark pandas matplotlib imbalanced-learn
 - **Random Forest** achieved the best balance between performance and execution time.  
 - **Scalability tests** showed near-linear speedup when increasing worker nodes.  
 
-### **Example Output**
+### **Output**
 | Model                  | Precision | Recall | F1-Score | Execution Time (s) |
 |------------------------|-----------|--------|----------|--------------------|
 | Random Forest (SMOTE)  | 0.82      | 0.78   | 0.80     | 120                |
